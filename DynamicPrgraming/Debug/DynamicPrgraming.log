@@ -1,0 +1,18 @@
+﻿  도둑질.cpp
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\DynamicPrgraming\도둑질.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\DynamicPrgraming\도둑질.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\DynamicPrgraming\도둑질.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\DynamicPrgraming\도둑질.cpp(22,12): warning C4244: 'return': conversion from 'const _Ty' to 'int', possible loss of data
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\DynamicPrgraming\도둑질.cpp(22,12): warning C4244:         with
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\DynamicPrgraming\도둑질.cpp(22,12): warning C4244:         [
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\DynamicPrgraming\도둑질.cpp(22,12): warning C4244:             _Ty=__int64
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\DynamicPrgraming\도둑질.cpp(22,12): warning C4244:         ]
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\DynamicPrgraming\도둑질.cpp(25,33): error C2084: function 'int solution(std::vector<int,std::allocator<_Ty>>)' already has a body
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\DynamicPrgraming\도둑질.cpp(25,33): error C2084:         with
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\DynamicPrgraming\도둑질.cpp(25,33): error C2084:         [
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\DynamicPrgraming\도둑질.cpp(25,33): error C2084:             _Ty=int
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\DynamicPrgraming\도둑질.cpp(25,33): error C2084:         ]
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\DynamicPrgraming\도둑질.cpp(11): message : see previous definition of 'solution'
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\DynamicPrgraming\도둑질.cpp(35,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\DynamicPrgraming\도둑질.cpp(38,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\DynamicPrgraming\도둑질.cpp(46,2): error C2065: 'solution': undeclared identifier

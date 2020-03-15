@@ -1,0 +1,3 @@
+﻿  입국심사.cpp
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\BinarySearch\입국심사.cpp(19,21): warning C4018: '<': signed/unsigned mismatch
+  BinarySearch.vcxproj -> C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Debug\BinarySearch.exe

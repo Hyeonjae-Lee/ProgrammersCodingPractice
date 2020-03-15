@@ -1,0 +1,5 @@
+﻿  H-index.cpp
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Sort\H-index.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Sort\H-index.cpp(24,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Sort\H-index.cpp(23,14): warning C4390: ';': empty controlled statement found; is this the intent?
+  Sort.vcxproj -> C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Debug\Sort.exe
