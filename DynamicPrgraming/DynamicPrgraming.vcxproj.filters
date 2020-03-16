@@ -27,5 +27,8 @@
     <ClCompile Include="도둑질.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="서울에서 경산까지.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
