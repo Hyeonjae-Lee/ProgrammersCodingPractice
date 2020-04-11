@@ -21,5 +21,8 @@
     <ClCompile Include="입국심사.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="징검다리 건너기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

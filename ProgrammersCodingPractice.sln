@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinarySearch", "BinarySearc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "softwareMaestroCodingTest", "softwareMaestroCodingTest\softwareMaestroCodingTest.vcxproj", "{213A583C-CAB6-41E8-8D9B-547371985DA0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2019 카카오 개발자 겨울 인턴십", "2019 카카오 개발자 겨울 인턴십\2019 카카오 개발자 겨울 인턴십.vcxproj", "{02A4B1B7-8B14-4A6E-BE3C-8C67AFCA1A9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{213A583C-CAB6-41E8-8D9B-547371985DA0}.Release|x64.Build.0 = Release|x64
 		{213A583C-CAB6-41E8-8D9B-547371985DA0}.Release|x86.ActiveCfg = Release|Win32
 		{213A583C-CAB6-41E8-8D9B-547371985DA0}.Release|x86.Build.0 = Release|Win32
+		{02A4B1B7-8B14-4A6E-BE3C-8C67AFCA1A9D}.Debug|x64.ActiveCfg = Debug|x64
+		{02A4B1B7-8B14-4A6E-BE3C-8C67AFCA1A9D}.Debug|x64.Build.0 = Debug|x64
+		{02A4B1B7-8B14-4A6E-BE3C-8C67AFCA1A9D}.Debug|x86.ActiveCfg = Debug|Win32
+		{02A4B1B7-8B14-4A6E-BE3C-8C67AFCA1A9D}.Debug|x86.Build.0 = Debug|Win32
+		{02A4B1B7-8B14-4A6E-BE3C-8C67AFCA1A9D}.Release|x64.ActiveCfg = Release|x64
+		{02A4B1B7-8B14-4A6E-BE3C-8C67AFCA1A9D}.Release|x64.Build.0 = Release|x64
+		{02A4B1B7-8B14-4A6E-BE3C-8C67AFCA1A9D}.Release|x86.ActiveCfg = Release|Win32
+		{02A4B1B7-8B14-4A6E-BE3C-8C67AFCA1A9D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

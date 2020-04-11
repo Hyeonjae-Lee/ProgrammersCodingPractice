@@ -55,10 +55,13 @@ int go(int a, int timeleft) {
 }
 
 int solution(int k, vector<vector<int>> travel) {
+	
 	int answer = 0;
 	trav = travel;
 	sizea = travel.size();
-	memset(dp, -1, sizeof(dp));
+	memset(dp1, -1, sizeof(dp1));
+	N = travel.size();
+	//memset(dp, -1, sizeof(dp));
 	checktime = k;
 
 	answer = go(0, k);
