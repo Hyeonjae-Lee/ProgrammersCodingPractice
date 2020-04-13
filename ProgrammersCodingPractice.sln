@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "softwareMaestroCodingTest",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2019 카카오 개발자 겨울 인턴십", "2019 카카오 개발자 겨울 인턴십\2019 카카오 개발자 겨울 인턴십.vcxproj", "{02A4B1B7-8B14-4A6E-BE3C-8C67AFCA1A9D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "연습문제", "연습문제\연습문제.vcxproj", "{CB018A1B-AB72-4EBD-8AAD-374B25D0368A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{02A4B1B7-8B14-4A6E-BE3C-8C67AFCA1A9D}.Release|x64.Build.0 = Release|x64
 		{02A4B1B7-8B14-4A6E-BE3C-8C67AFCA1A9D}.Release|x86.ActiveCfg = Release|Win32
 		{02A4B1B7-8B14-4A6E-BE3C-8C67AFCA1A9D}.Release|x86.Build.0 = Release|Win32
+		{CB018A1B-AB72-4EBD-8AAD-374B25D0368A}.Debug|x64.ActiveCfg = Debug|x64
+		{CB018A1B-AB72-4EBD-8AAD-374B25D0368A}.Debug|x64.Build.0 = Debug|x64
+		{CB018A1B-AB72-4EBD-8AAD-374B25D0368A}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB018A1B-AB72-4EBD-8AAD-374B25D0368A}.Debug|x86.Build.0 = Debug|Win32
+		{CB018A1B-AB72-4EBD-8AAD-374B25D0368A}.Release|x64.ActiveCfg = Release|x64
+		{CB018A1B-AB72-4EBD-8AAD-374B25D0368A}.Release|x64.Build.0 = Release|x64
+		{CB018A1B-AB72-4EBD-8AAD-374B25D0368A}.Release|x86.ActiveCfg = Release|Win32
+		{CB018A1B-AB72-4EBD-8AAD-374B25D0368A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
