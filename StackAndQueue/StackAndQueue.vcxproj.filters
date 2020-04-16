@@ -18,5 +18,8 @@
     <ClCompile Include="다리를 지나는 트럭.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="기능개발.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

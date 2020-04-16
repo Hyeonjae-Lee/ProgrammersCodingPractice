@@ -1,0 +1,5 @@
+﻿  소수 찾기.cpp
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\BruteForce\소수 찾기.cpp(14,12): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\BruteForce\소수 찾기.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\BruteForce\소수 찾기.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+  BruteForce.vcxproj -> C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Debug\BruteForce.exe
