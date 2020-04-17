@@ -1,0 +1,5 @@
+﻿  프렌즈4블록.cpp
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\프렌즈4블록.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\프렌즈4블록.cpp(21,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\프렌즈4블록.cpp(51,22): warning C4018: '<': signed/unsigned mismatch
+  2018 KAKAO BLIND RECRUITMENT.vcxproj -> C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Debug\2018 KAKAO BLIND RECRUITMENT.exe

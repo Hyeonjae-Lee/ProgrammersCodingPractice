@@ -36,5 +36,8 @@
     <ClCompile Include="문자열 마음대로 정렬하기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="땅따먹기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,2 +1,3 @@
-﻿  조이스틱.cpp
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Greedy\조이스틱.cpp(12,10): error C3861: 'solution': identifier not found
+﻿  큰 수 만들기.cpp
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Greedy\큰 수 만들기.cpp(16,21): warning C4018: '<': signed/unsigned mismatch
+  Greedy.vcxproj -> C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Debug\Greedy.exe

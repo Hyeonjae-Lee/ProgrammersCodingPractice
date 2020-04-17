@@ -21,5 +21,8 @@
     <ClCompile Include="조이스틱.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="큰 수 만들기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
