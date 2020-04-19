@@ -18,5 +18,8 @@
     <ClCompile Include="프렌즈4블록.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="문자열 압축.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
