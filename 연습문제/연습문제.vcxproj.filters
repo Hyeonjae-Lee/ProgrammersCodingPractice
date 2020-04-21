@@ -42,5 +42,8 @@
     <ClCompile Include="124 나라의 숫자.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="숫자의 표현.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
