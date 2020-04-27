@@ -24,5 +24,11 @@
     <ClCompile Include="소수 만들기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="점프와 순간이동.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="영어 끝말잇기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

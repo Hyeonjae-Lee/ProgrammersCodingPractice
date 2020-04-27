@@ -21,5 +21,8 @@
     <ClCompile Include="문자열 압축.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="뉴스 클러스터링.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

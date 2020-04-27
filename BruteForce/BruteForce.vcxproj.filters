@@ -18,5 +18,8 @@
     <ClCompile Include="소수 찾기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="카펫.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
