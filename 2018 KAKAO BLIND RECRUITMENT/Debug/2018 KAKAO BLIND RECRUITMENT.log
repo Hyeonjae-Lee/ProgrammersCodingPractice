@@ -1,5 +1,5 @@
-﻿  문자열 압축.cpp
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\문자열 압축.cpp(14,20): warning C4018: '<=': signed/unsigned mismatch
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\문자열 압축.cpp(20,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\문자열 압축.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+﻿  뉴스 클러스터링.cpp
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\뉴스 클러스터링.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\뉴스 클러스터링.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\뉴스 클러스터링.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
   2018 KAKAO BLIND RECRUITMENT.vcxproj -> C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Debug\2018 KAKAO BLIND RECRUITMENT.exe
