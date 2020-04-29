@@ -1,14 +1,11 @@
-﻿  뉴스 클러스터링.cpp
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\뉴스 클러스터링.cpp(119,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\뉴스 클러스터링.cpp(127,17): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\뉴스 클러스터링.cpp(134,20): warning C4018: '<': signed/unsigned mismatch
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(1312,24): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\뉴스 클러스터링.cpp(138): message : see reference to function template instantiation '_OutIt std::transform<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,wint_t(__cdecl *)(wint_t)>(const _InIt,const _InIt,_OutIt,_Fn)' being compiled
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\뉴스 클러스터링.cpp(138): message :         with
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\뉴스 클러스터링.cpp(138): message :         [
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\뉴스 클러스터링.cpp(138): message :             _OutIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>,
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\뉴스 클러스터링.cpp(138): message :             _Elem=char,
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\뉴스 클러스터링.cpp(138): message :             _InIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>,
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\뉴스 클러스터링.cpp(138): message :             _Fn=wint_t (__cdecl *)(wint_t)
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\뉴스 클러스터링.cpp(138): message :         ]
+﻿  파일명 정렬.cpp
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\파일명 정렬.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\파일명 정렬.cpp(41,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\파일명 정렬.cpp(92,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\파일명 정렬.cpp(95,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\파일명 정렬.cpp(113,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\파일명 정렬.cpp(116,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\파일명 정렬.cpp(126,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\파일명 정렬.cpp(136,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\파일명 정렬.cpp(143,20): warning C4018: '<': signed/unsigned mismatch
   2018 KAKAO BLIND RECRUITMENT.vcxproj -> C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Debug\2018 KAKAO BLIND RECRUITMENT.exe

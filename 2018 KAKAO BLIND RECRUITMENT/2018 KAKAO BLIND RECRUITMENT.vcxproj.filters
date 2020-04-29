@@ -24,5 +24,14 @@
     <ClCompile Include="뉴스 클러스터링.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="방금그곡.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="캐시.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="파일명 정렬.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
