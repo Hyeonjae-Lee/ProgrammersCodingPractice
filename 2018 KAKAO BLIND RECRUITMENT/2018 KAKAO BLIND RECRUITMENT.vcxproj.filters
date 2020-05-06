@@ -33,5 +33,8 @@
     <ClCompile Include="파일명 정렬.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="압축.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
