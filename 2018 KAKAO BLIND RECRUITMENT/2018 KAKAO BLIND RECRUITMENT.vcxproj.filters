@@ -36,5 +36,14 @@
     <ClCompile Include="압축.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="n진수 게임.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="추석 트래픽.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="브라이언의 고민.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

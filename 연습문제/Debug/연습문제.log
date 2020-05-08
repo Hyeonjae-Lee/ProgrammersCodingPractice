@@ -1,2 +1,5 @@
-﻿  124 나라의 숫자.cpp
+﻿  최솟값 만들기.cpp
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\연습문제\최솟값 만들기.cpp(20,12): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\연습문제\최솟값 만들기.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\연습문제\최솟값 만들기.cpp(27,22): warning C4018: '<': signed/unsigned mismatch
   연습문제.vcxproj -> C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Debug\연습문제.exe
