@@ -9,11 +9,19 @@
 
 using namespace std;
 
-// 전역 변수를 정의할 경우 함수 내에 초기화 코드를 꼭 작성해주세요.
-string solution(string sentence) {
-	string answer = "";
+int dp[40000];
 
-	
+int solution(int N, int number) {
+	int answer = 0;
+
+	queue<pair<int, int>> qu;
+	qu.push({ 1, N });
+
+	while (!qu.empty()) {
+		pair<int, int> temp = qu.front();
+
+		qu.push(  )
+	}
 
 
 	return answer;
