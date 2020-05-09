@@ -48,5 +48,8 @@
     <ClCompile Include="자물쇠와 열쇠.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="이중우선순위큐.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
