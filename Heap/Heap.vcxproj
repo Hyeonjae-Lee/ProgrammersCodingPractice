@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\2018 KAKAO BLIND RECRUITMENT\이중우선순위큐.cpp" />
     <ClCompile Include="라면공장.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,3 +1,21 @@
-﻿  튜플.cpp
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\튜플.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+﻿  Q2.cpp
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(47,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(67,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(86,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(111,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(131,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(150,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(175,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(195,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(214,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(240,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(260,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(278,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(303,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(323,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(342,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(367,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(387,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2019 카카오 개발자 겨울 인턴십\Q2.cpp(406,22): warning C4018: '<': signed/unsigned mismatch
   2019 카카오 개발자 겨울 인턴십.vcxproj -> C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Debug\2019 카카오 개발자 겨울 인턴십.exe

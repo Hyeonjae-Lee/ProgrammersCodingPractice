@@ -18,5 +18,8 @@
     <ClCompile Include="라면공장.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\2018 KAKAO BLIND RECRUITMENT\이중우선순위큐.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

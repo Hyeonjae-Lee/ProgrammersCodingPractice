@@ -21,5 +21,8 @@
     <ClCompile Include="기능개발.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="쇠막대기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

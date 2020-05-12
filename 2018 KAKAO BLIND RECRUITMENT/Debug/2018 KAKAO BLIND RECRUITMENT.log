@@ -1,5 +1,2 @@
-﻿  이중우선순위큐.cpp
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\이중우선순위큐.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\2018 KAKAO BLIND RECRUITMENT\이중우선순위큐.cpp(29,20): warning C4018: '<': signed/unsigned mismatch
-MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Debug\2018 KAKAO BLIND RECRUITMENT.exe : fatal error LNK1120: 1 unresolved externals
+﻿  보행자 천국.cpp
+  2018 KAKAO BLIND RECRUITMENT.vcxproj -> C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Debug\2018 KAKAO BLIND RECRUITMENT.exe

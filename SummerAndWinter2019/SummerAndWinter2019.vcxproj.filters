@@ -30,5 +30,8 @@
     <ClCompile Include="영어 끝말잇기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="종이접기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
