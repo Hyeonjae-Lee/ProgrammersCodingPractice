@@ -69,5 +69,11 @@
     <ClCompile Include="가장 긴 펠린드롬.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="야근 지수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="줄 서는 방법.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
