@@ -51,5 +51,14 @@
     <ClCompile Include="보행자 천국.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="비밀지도.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="다트 게임.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="기둥과 보 설치.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

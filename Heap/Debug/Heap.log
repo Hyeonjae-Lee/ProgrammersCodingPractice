@@ -1,1 +1,9 @@
-﻿  Heap.vcxproj -> C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Debug\Heap.exe
+﻿  디스크 컨트롤러.cpp
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Heap\디스크 컨트롤러.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Heap\디스크 컨트롤러.cpp(20,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Heap\디스크 컨트롤러.cpp(22,21): error C2677: binary '>': no global operator found which takes type 'std::vector<std::pair<int,int>,std::allocator<_Ty>>' (or there is no acceptable conversion)
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Heap\디스크 컨트롤러.cpp(22,21): error C2677:         with
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Heap\디스크 컨트롤러.cpp(22,21): error C2677:         [
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Heap\디스크 컨트롤러.cpp(22,21): error C2677:             _Ty=std::pair<int,int>
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Heap\디스크 컨트롤러.cpp(22,21): error C2677:         ]
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\Heap\디스크 컨트롤러.cpp(24,3): error C2059: syntax error: '}'

@@ -63,5 +63,11 @@
     <ClCompile Include="2n 타일링.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="N퀸_문제.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="가장 긴 펠린드롬.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
