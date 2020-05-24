@@ -1,3 +1,5 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
-  줄 서는 방법.cpp
+  거스름돈.cpp
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\연습문제\거스름돈.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ieehy\source\repos\ProgrammersCodingPractice\연습문제\거스름돈.cpp(30,11): warning C4552: '%': result of expression not used
   연습문제.vcxproj -> C:\Users\ieehy\source\repos\ProgrammersCodingPractice\연습문제\yes\연습문제.exe
