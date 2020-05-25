@@ -22,7 +22,6 @@ int solution(int n, vector<int> money) {
 
 	dp[0] = 1;
 
-	
 	for (int i = 1; i < money.size(); i++) {
 		for (int k = 0; k <= n; k++) {
 			if (k >= money[i]) {
